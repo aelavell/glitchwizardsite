@@ -22,12 +22,25 @@
 .news-icon {
   margin: 0 auto;
   width: 75px;
+  height: 75px;
+}
+
+.final-saying {
+  margin-top: 30px;
+  margin-bottom: 16px;
 }
 
 .bottom-quote {
-  
   text-align: center;
   margin-top: 6px;
+}
+
+.social-icon {
+  padding-top: 16px;
+}
+
+.follow-us-text {
+
 }
 
 body { 
@@ -80,16 +93,16 @@ nav ul li {
 }
 
 a {
-  color: #e8488c;
+  color: white;
 }
 
 a:hover {
-  color: #ff0062;
+  color: gray;
   text-decoration: none;
 }
 
 a:visited {
-  color: #e8488c;
+  color: white;
 }
 
 header, footer {
@@ -97,12 +110,6 @@ header, footer {
   background-color: black;
   height: 60px;
 }
-
-footer {
-  display: block;
-  height: 80px;
-}
-
 .mobile-only {
   
 }

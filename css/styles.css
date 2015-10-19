@@ -19,11 +19,19 @@ h1, h2, h3, h4, h5, h6 {
 
 .news-icon {
   margin: 0 auto;
-  width: 75px; }
+  width: 75px;
+  height: 75px; }
+
+.final-saying {
+  margin-top: 30px;
+  margin-bottom: 16px; }
 
 .bottom-quote {
   text-align: center;
   margin-top: 6px; }
+
+.social-icon {
+  padding-top: 16px; }
 
 body {
   color: white;
@@ -66,23 +74,19 @@ nav ul li {
   padding-right: 10px; }
 
 a {
-  color: #e8488c; }
+  color: white; }
 
 a:hover {
-  color: #ff0062;
+  color: gray;
   text-decoration: none; }
 
 a:visited {
-  color: #e8488c; }
+  color: white; }
 
 header, footer {
   width: 100%;
   background-color: black;
   height: 60px; }
-
-footer {
-  display: block;
-  height: 80px; }
 
 .desktop-only {
   visibility: hidden;
