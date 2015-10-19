@@ -17,6 +17,10 @@ h1, h2, h3, h4, h5, h6 {
   border-radius: 20px;
   margin-bottom: 16px; }
 
+.news-icon {
+  margin: 0 auto;
+  width: 75px; }
+
 .bottom-quote {
   text-align: center;
   margin-top: 6px; }
@@ -25,7 +29,7 @@ body {
   color: white;
   font-family: "Avenir", Arial, sans-serif;
   font-weight: 100;
-  background-color: #101010;
+  background-color: #080808;
   height: 100%; }
 
 .youtube-trailer {
