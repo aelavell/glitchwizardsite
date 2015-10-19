@@ -3074,6 +3074,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/glitchwizard_iconB.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 46965,
+		"inputAbbreviatedPath": "\/images\/glitchwizard_iconB.png",
+		"outputAbbreviatedPath": "\/images\/glitchwizard_iconB.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/hashtag-glitchwizard.png": {
 		"fileType": 32768,
 		"ignore": 0,
