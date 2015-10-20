@@ -1,6 +1,21 @@
 h1, h2, h3, h4, h5, h6 {
   margin: 0; }
 
+/*--------------------
+HIDING SHIT
+--------------------*/
+@media (max-width: 767px) {
+  .mobile-only {
+    display: block !important; }
+
+  .tablet-up {
+    display: none !important; } }
+@media (min-width: 768px) {
+  .mobile-only {
+    display: none !important; }
+
+  .tablet-up {
+    display: block !important; } }
 .video-section {
   background: black;
   padding: 40px; }
@@ -358,12 +373,6 @@ blockquote {
   .desktop-only {
     visibility: visible;
     height: auto; }
-
-  .mobile-only {
-    visibility: hidden;
-    height: 0;
-    padding: 0;
-    margin: 0; }
 
   #demo-phone-mobile {
     margin: 0; } }

@@ -3505,6 +3505,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/coolhunting.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37942,
+		"inputAbbreviatedPath": "\/images\/coolhunting.png",
+		"outputAbbreviatedPath": "\/images\/coolhunting.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/create.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -3512,6 +3523,17 @@
 		"initialSize": 22977,
 		"inputAbbreviatedPath": "\/images\/create.jpg",
 		"outputAbbreviatedPath": "\/images\/create.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/creativeapplications.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35394,
+		"inputAbbreviatedPath": "\/images\/creativeapplications.png",
+		"outputAbbreviatedPath": "\/images\/creativeapplications.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

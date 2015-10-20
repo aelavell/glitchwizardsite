@@ -127,10 +127,6 @@ header, footer {
   height: 60px;
 }
 
-.mobile-only {
-  
-}
-
 .desktop-only {
   visibility:hidden;
   height:0;
@@ -446,12 +442,7 @@ blockquote {
     visibility: visible;
     height: auto;
   }
-  .mobile-only {
-    visibility: hidden;
-    height: 0;
-    padding: 0;
-    margin: 0;
-  }
+
   #demo-phone-mobile {
     margin: 0; 
   }
