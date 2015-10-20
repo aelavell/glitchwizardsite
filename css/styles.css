@@ -1,12 +1,20 @@
 h1, h2, h3, h4, h5, h6 {
   margin: 0; }
 
+.video-section {
+  background: black;
+  padding: 40px; }
+
+.points-section {
+  background: black;
+  padding-bottom: 26px; }
+
 .fullwidth {
   width: 100%; }
 
 .feature-header {
-  margin-top: 16px;
-  margin-bottom: 16px; }
+  margin-top: 26px;
+  margin-bottom: 26px; }
 
 .glitchwizard-icon {
   display: block;
@@ -37,9 +45,12 @@ body {
   color: white;
   font-family: "Avenir", Arial, sans-serif;
   font-weight: 100;
-  background-color: #101010;
+  background-color: #181818;
   height: 100%; }
 
+@media (min-width: 1025px) {
+  body {
+    background-color: #101010; } }
 .youtube-trailer {
   width: 270px;
   height: 151px;
@@ -217,7 +228,7 @@ blockquote {
 #apple-appstore-badge {
   display: block;
   width: 230px;
-  margin-bottom: 16px; }
+  margin-bottom: 26px; }
 
 #fullwidth-pic-start {
   display: block;
